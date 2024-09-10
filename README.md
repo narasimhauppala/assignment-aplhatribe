@@ -4,6 +4,9 @@ AlphaTribe API
 
 `http://localhost:4000/`
 
+Server is Hosted in Linod:
+`http://172-235-27-127.ip.linodeusercontent.com:4000/`
+
 ### POST SignUpUser
 
 
