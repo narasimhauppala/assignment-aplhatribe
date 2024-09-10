@@ -1,5 +1,5 @@
 {
-  "name": "assginment-aplhatribe",
+  "name": "assignment-aplhatribe",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "assginment-aplhatribe": "file:",
+    "assignment-aplhatribe": "file:",
     "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
